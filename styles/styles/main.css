@@ -4,6 +4,9 @@ body {
     font-size: 100%;
 }
 
+<link rel="stylesheet" href="styles/normalize.css">
+<link rel="stylesheet" href="main.css">
+
 /* the styles for the header */
 header img {
 	float: left;
